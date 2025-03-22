@@ -1,0 +1,11 @@
+git init
+git add
+git commit
+
+git log
+git status
+
+git diff
+git show
+git restore
+git restore -s HEAD~1

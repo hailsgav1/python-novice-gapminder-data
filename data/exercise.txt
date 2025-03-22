@@ -1,0 +1,50 @@
+    1  pwd
+    2  ls
+    3  explorer.exe .
+    4  explorer.exe
+    5  https://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip
+    6  wget https://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip
+    7  unzip python-novice-gapminder-data.zip 
+    8  ls
+    9  mkdir python-novice-gapminder-data
+   10  ls
+   11  mv data python-novice-gapminder-data
+   12  cd
+   13  cd python-novice-gapminder-gapminder-data/
+   14  ls
+   15  cd python-novice-gapminder-data/
+   16  ls
+   17  cd data/
+   18  ls
+   19  cd ..
+   20  cd python-novice-gapminder-data/
+   21  ls
+   22  cd data
+   23  cd exouser/python-novice-gapminder-data/
+   24  cd ../../
+   25  cd exouser/
+   67  ls
+   68  rm -r carpentries
+   69  ls
+   70  touch file
+   71  ls
+   72  ls -lh
+   73  mv file gapminder_all.csv folder
+   74  ls folder
+   75  cd folder
+   76  ls
+   77  mv gapminder_all.csv ..
+   78  ls
+   79  ls ..
+   80  mvmv file file.txt
+   81  ls
+   82  mv file file.text
+   83  ls
+   84  ls -lh
+   85  nano file.txt
+   86  cat file.txt
+   87  ls
+   88  cd ..
+   89  ls
+   90  history
+   91  history > history.txt
